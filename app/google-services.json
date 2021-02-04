@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "129805962532",
+    "firebase_url": "https://neural-a977c.firebaseio.com",
+    "project_id": "neural-a977c",
+    "storage_bucket": "neural-a977c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129805962532:android:7e1d3b68d3a2ec586e77b1",
+        "android_client_info": {
+          "package_name": "com.purge.nueral"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129805962532-ntbe33e9mnuktelteeakpu5mnfl0jce7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.purge.nueral",
+            "certificate_hash": "56272b61f3dd65e83ae2fa3c6a84e97d89be67e6"
+          }
+        },
+        {
+          "client_id": "129805962532-4m4qn5jjh8lc2dnj6u8ufs8fl93f5ql5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsEm6jT1wT8UkyQdgmSgiQ1AY01icudsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129805962532-4m4qn5jjh8lc2dnj6u8ufs8fl93f5ql5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

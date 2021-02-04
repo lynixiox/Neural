@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Nueral</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoicHVyZ2VkIiwiYSI6ImNrMTB1NHNjZTAxMDQzanA0a3h6NHgwdDUifQ.3K3D_jLsacQQimYt337hFA</string>
+</resources>
